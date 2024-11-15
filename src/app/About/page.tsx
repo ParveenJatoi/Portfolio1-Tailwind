@@ -13,22 +13,22 @@ export default function About() {
       />
       <h1 className="text-4xl font-bold my-5">About Me</h1>
       <p className="text-lg mb-4 leading-relaxed text-center">
-        Hi, I'm <strong>Parveen Jatoi</strong>, a dedicated learner currently enrolled in the 
+        Hi, I am <strong>Parveen Jatoi</strong>, a dedicated learner currently enrolled in the 
         Government IT Initiative for Generative AI and Cloud Computing Engineering course. 
         I have successfully completed my first quarter and am currently in my second quarter, 
         where I am expanding my skills and knowledge in these exciting fields.
       </p>
       <p className="text-lg mb-4 leading-relaxed text-center">
         I have learned <strong>TypeScript, JavaScript, HTML, CSS,</strong> and <strong>Tailwind CSS</strong>, 
-        and I'm currently exploring <strong>Next.js</strong>. I have completed many projects that demonstrate 
+        and I am currently exploring <strong>Next.js</strong>. I have completed many projects that demonstrate 
         my skills and creativity.
       </p>
       <p className="text-lg mb-4 leading-relaxed text-center">
         You can check out my projects <Link href="/projects" className="text-blue-600 underline">here</Link>.
       </p>
       <p className="text-lg mb-4 leading-relaxed text-center">
-        I'm passionate about leveraging technology to solve real-world problems and am eager to 
-        apply what I've learned to create innovative solutions.
+        I am passionate about leveraging technology to solve real-world problems and am eager to 
+        apply what I have learned to create innovative solutions.
       </p>
       <p className="text-lg mb-4 leading-relaxed text-center">
         Thank you for visiting my portfolio!
